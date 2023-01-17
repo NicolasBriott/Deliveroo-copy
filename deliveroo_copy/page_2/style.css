@@ -1,0 +1,32 @@
+
+.body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container{
+    width: 390px;
+    height: 844px;
+    background-color:white;
+    display: flex;
+   
+}
+.header{
+  background-image: url(../page_2/images/header.png);
+  width: 380px;
+  height: 100px;
+}
+.top{
+  display: flex;
+  width: 20vh;
+  flex-direction: row;
+}
+
+
+.image{
+    display: flex;
+    align-items: center;
+    display: block;     
+    width: 30%;     
+    margin: auto;
+}
